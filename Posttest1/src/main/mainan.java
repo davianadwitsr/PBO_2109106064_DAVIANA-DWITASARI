@@ -104,6 +104,7 @@ public class mainan {
         index = Integer.parseInt(input.readLine());
         index--;
         
+        System.out.println("........................................");
         System.out.println("Masukkan nama mainan : ");
         nama_mainan = input.readLine();
         System.out.println("Masukkan warna mainan : ");
